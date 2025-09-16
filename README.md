@@ -1,16 +1,42 @@
-## Hi there 👋
+# Hi, I'm Griffin 👋  
 
-<!--
-**Griff2512/Griff2512** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🌟 **Aspiring Front-End Developer** | 💻 Career Changer | 🚀 Lifelong Learner  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+In November 2024, I experienced a life-changing injury — I fell 16 feet from a ladder while putting up Christmas lights, breaking my femur and wrist. During my recovery, I reflected on my career and made the decision to pursue software development, a field I had never imagined entering.  
+
+Since then, I’ve discovered a passion for **front-end development** — creating clean, responsive, and interactive web experiences. I am actively sharpening my skills in **HTML, CSS, and JavaScript** through hands-on projects and the **CourseCareers Software Development Program**. My goal is to grow into a professional front-end developer who builds intuitive and impactful user experiences.  
+
+---
+
+## 🎓 Currently Learning
+- **CourseCareers Software Development Program** – Front-end development, project building, and coding best practices  
+- Responsive design and accessibility  
+- Modern JavaScript features  
+
+---
+
+## 🛠️ Skills
+- **Languages & Tools:** HTML, CSS, JavaScript  
+- **Version Control:** Git & GitHub  
+- **Currently Learning:** React, responsive layouts, and front-end frameworks  
+
+---
+
+## 📂 Projects
+Here are some projects I’ve been working on:  
+
+
+*(More projects coming soon as I continue learning!)*  
+
+---
+
+## 📫 Connect with Me
+- [LinkedIn](https://www.linkedin.com/in/griffin-mccaughey-941307384/)[
+📧 [Email Me](mailto:agmlmccau25@gmail.com)  
+
+---
+
+✨ Thanks for visiting my GitHub! Check back often as I continue building front-end projects and growing as a developer.
