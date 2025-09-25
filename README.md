@@ -26,7 +26,9 @@ Since then, I’ve discovered a passion for **front-end development** — creati
 ---
 
 ## 📂 Projects
-[](https://github.com/Griff2512/To-Do-List-App.git)
+
+https://github.com/Griff2512/To-Do-List-App.git
+
 Here are some projects I’ve been working on:  
 
 
