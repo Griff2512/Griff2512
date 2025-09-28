@@ -28,6 +28,7 @@ Since then, I’ve discovered a passion for **front-end development** — creati
 ## 📂 Projects
 Here are some projects I’ve been working on:
 
+https://github.com/Griff2512/Tetris-Remake.git
 https://github.com/Griff2512/To-Do-List-App.git
 
 *(More projects coming soon as I continue learning!)*  
